@@ -1,4 +1,4 @@
-# Hashicorp-cloud
+# Price options
 
 # Price Options for Key Vault, Hashicorp Cloud, and running personal Key Vault Server.
 ```shell
@@ -76,6 +76,11 @@ with a monthly fee of $0.10 per 10,000 stored objects
 2. Premium tier: $0.30 per 10,000 operations for secrets and $0.30 per 10,000 operations for keys, 
 with a monthly fee of $1.20 per 10,000 stored objects.
 ```
+
+![image](https://user-images.githubusercontent.com/113483171/236312444-e47713c1-39dd-496f-a686-5131184c643b.png)
+
+NB: For running the users’ own Key Vault Server, the actual prices will be based on the factors listed in the table above to be able to get the hard figures with will differ from one organization to the other.
+
 
 
 
