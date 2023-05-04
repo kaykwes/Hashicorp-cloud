@@ -60,6 +60,12 @@ management process and can be customized to meet specific requirements.
 
 ![image](https://user-images.githubusercontent.com/113483171/236310445-4d606d84-d196-40bd-be4d-0bdef62dfac2.png)
 
+![image](https://user-images.githubusercontent.com/113483171/236311650-7080e20e-ee3f-4024-aa84-decf321f6d57.png)
+
+
+# Hashicorp Cloud:
+
+
 
 
 
