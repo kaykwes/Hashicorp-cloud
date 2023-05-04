@@ -58,7 +58,7 @@ management process and can be customized to meet specific requirements.
 
 # The table below shows the differences between the 3 options based on the general cost-wise factors for running either one of them:
 ```shell
-
+![image](https://user-images.githubusercontent.com/113483171/236310445-4d606d84-d196-40bd-be4d-0bdef62dfac2.png)
 
 
  
