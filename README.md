@@ -64,6 +64,19 @@ management process and can be customized to meet specific requirements.
 
 
 # Hashicorp Cloud:
+![image](https://user-images.githubusercontent.com/113483171/236312011-ef00c545-ca03-4b8d-b4ca-05ef541d2b6a.png)
+
+
+# Azure Key Vault:
+```shell
+1. Standard tier: $0.03 per 10,000 operations for secrets and $0.03 per 10,000 operations for keys, 
+with a monthly fee of $0.10 per 10,000 stored objects
+
+
+2. Premium tier: $0.30 per 10,000 operations for secrets and $0.30 per 10,000 operations for keys, 
+with a monthly fee of $1.20 per 10,000 stored objects.
+```
+
 
 
 
